@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 # Hugo Arcanjo
 
+- 🌱 I’m currently learning: Spring Boot
+- 🔭 I’m currently working on Backend development. 
+
 ## Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/harcanjo/) [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/SEUUSERNAME/) [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/SEUUSERNAME) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEUUSERNAME/)
@@ -35,4 +38,4 @@ Here are some ideas to get you started:
 
 ## Meus Projetos
 
-***Em construção...***🏗️👷🏽‍♂️
+***Em construção...*** 🏗️👷🏽‍♂️
