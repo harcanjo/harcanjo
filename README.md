@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 ## Meus Projetos
 
-***Em construção...*** 🏗️👷🏽‍♂️
+***Em construção...*** 🏗️
