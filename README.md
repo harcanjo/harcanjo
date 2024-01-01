@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # Hugo Arcanjo
 
-- 🌱 I’m currently learning: Spring Boot
-- 🔭 I’m currently working on Backend development. 
+- 🌱 I’m currently learning: Dynamics 365 (ERP)
+- 🔭 I’m currently working on FullStack Web Development | Dynamics 365 CE | Power Platform | .NET | C# | JavaScript | SQL | Cloud | Git. 
 
 ## Conecte-se Comigo
 
