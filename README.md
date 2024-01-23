@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/harcanjo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hfarcanjo@gmail.com)
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/harcanjo)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/hugoarcanjo/) 
+[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/harcanjo)
+[![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/harcanjo)
+[![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/harcanjo/)
 
 <!-- 
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/SEUUSERNAME/) 
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Skills
 
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/React-Native-000?style=for-the-badge&logo=React-Native) ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
 ## GitHub Stats
 
