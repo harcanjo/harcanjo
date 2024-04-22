@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hugo Arcanjo
 
 - 🌱 I’m currently learning: Dynamics 365 (ERP)
-- 🔭 I’m currently working on FullStack Web Development | Dynamics 365 CE | Power Platform | .NET | C# | JavaScript | SQL | Cloud | Git. 
+<!-- 🔭 I’m currently working on FullStack Web Development | Dynamics 365 CE | Power Platform | .NET | C# | JavaScript | SQL | Cloud | Git. -->
 
 ## My Contacts
 
@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=harcanjo&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-## Meus Projetos
+<!--## Meus Projetos
 
-***Em construção...*** 🏗️
+***Em construção...*** 🏗️--> 
